@@ -1,0 +1,24 @@
+name: "little-book-of-RStudio-websites"
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "My Infographic"
+      href: project.html
+    - text: "My Tableau"
+      href: build.html
+    - text: "Create a _site.yml"
+      href: create_yml.html
+    - text: "Tables and Plots"
+      href: tables_plots.html
+    - text: "Include Images"
+      href: images.html
+    - text: "Embed a webpage"
+      href: embed.html
+    - text: "Pizza"
+      href: pizza.html
+    - text: "Publishing your site"
+      href: publishing.html
+    - text: "Updating"
+      href: updating.html
+output_dir: "."
